@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=DriverDoc
+Exec=env WINEPREFIX="/home/gaeun/.wine" wine C:\\\\users\\\\Public\\\\Desktop\\\\DriverDoc.lnk
+Type=Application
+StartupNotify=true
+Path=/home/gaeun/.wine/dosdevices/c:/Program Files (x86)/DriverDoc
+Icon=17AC_DriverDoc.0
+StartupWMClass=driverdoc.exe

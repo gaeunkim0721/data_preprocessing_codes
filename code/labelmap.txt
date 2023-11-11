@@ -1,0 +1,9 @@
+edge_in_small_hole
+edge_scratch
+hole_press
+poke
+scratch
+small_hole_closed
+surface_scratch
+thin_press
+undefined

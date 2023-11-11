@@ -1,0 +1,25 @@
+# 클래스 이름 목록
+names:
+  - defects
+  - area
+  - edge
+  - edge_area
+  - hole_press
+  - multi
+  - poke
+  - shape
+  - surface
+  - thin_press
+  - undefined
+
+# 클래스 수
+nc: 11
+
+# 테스트 데이터셋 경로
+test: /content/drive/MyDrive/extraction_directory/test
+
+# 학습 데이터셋 경로
+train: /content/drive/MyDrive/extraction_directory/train
+
+# 검증 데이터셋 경로
+val: /content/drive/MyDrive/extraction_directory/val
